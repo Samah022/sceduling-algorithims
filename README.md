@@ -16,8 +16,8 @@ The implemented algorithms include:
 ## Files 📑
 
 - **main.c**: Contains the main program which executes and tests the scheduling algorithms.
+-  **test1.txt**: Input file containing process details and quantum times.
 - **output.txt**: Output file where the results of scheduling algorithms are saved.
-- **test1.txt**: Input file containing process details and quantum times.
 
 ## Usage 💡
 
@@ -28,7 +28,7 @@ To use this project, you can either enter process details interactively or use a
 To compile the program, use any standard C compiler. For example, with GCC on Unix/Linux systems:
 
 ```bash
-gcc main.c -o scheduler
+gcc Final_Version.c -o Final_Version
 ```
 
 ## Contributors ✍️
